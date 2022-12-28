@@ -1,15 +1,26 @@
-##Hello Everybody 🌏
 
-<div id="header" align="right">
+
+<div id="header" align="center">
   <img src="https://media2.giphy.com/media/1sgetPM00wWqJpVUTl/200w.webp?cid=ecf05e47fv3lfr0hdo0hhttfbaaxl30sp5d9bpk3hmiy961h&rid=200w.webp&ct=s" width="200"/>
 </div>
 
+##Hello Everybody 🌏
 
-- 🌱 I’m currently learning JS and PHP
+<div id="badges">
+  <a href="your-linkedin-URL](https://www.linkedin.com/in/marius-dadurka/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/mdadurka">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+
+- 🌱 I’m currently learning JS and PHP at BIT.
 - 📫 How to reach me: https://www.linkedin.com/in/marius-dadurka/
 - 💬 You can ask me about Aviation and Space 
 
-I am friendly with:
+
 
 
 <!--

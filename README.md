@@ -4,7 +4,7 @@
   <img src="https://media2.giphy.com/media/1sgetPM00wWqJpVUTl/200w.webp?cid=ecf05e47fv3lfr0hdo0hhttfbaaxl30sp5d9bpk3hmiy961h&rid=200w.webp&ct=s" width="200"/>
 </div>
 
-##Hello Everybody 🌏
+Hello Everybody 🌏
 - 🌱 I’m currently learning JS and PHP at BIT.
 - 💬 You can ask me about Aviation and Space 
 

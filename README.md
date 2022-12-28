@@ -13,6 +13,7 @@
   </a>
 </div>
 
+<br>
 
 - 🌱 I’m currently learning JS and PHP at BIT.
 - 📫 How to reach me: https://www.linkedin.com/in/marius-dadurka/

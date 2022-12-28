@@ -5,11 +5,10 @@
 </div>
 
 - 🌱 I’m currently learning JS and PHP at BIT.
-- 📫 How to reach me: https://www.linkedin.com/in/marius-dadurka/
 - 💬 You can ask me about Aviation and Space 
 
 <br>
-
+- 📫 How to reach me: 
 <div id="badges">
   <a href="your-linkedin-URL](https://www.linkedin.com/in/marius-dadurka/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

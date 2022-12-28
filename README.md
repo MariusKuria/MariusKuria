@@ -1,6 +1,10 @@
 ##                                                    Hello Everybody 🌏
 
-<iframe src="https://giphy.com/embed/NcX5bAU7qyPPCJfruF" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/Yappa-yappa-yapproved-yappabe-NcX5bAU7qyPPCJfruF">via GIPHY</a></p>
+<div id="header" align="center">
+  <iframe src="https://giphy.com/embed/NcX5bAU7qyPPCJfruF" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/Yappa-yappa-yapproved-yappabe-NcX5bAU7qyPPCJfruF">via GIPHY</a></p>
+</div>
+
+
 
 - 🌱 I’m currently learning JS and PHP
 - 📫 How to reach me: https://www.linkedin.com/in/marius-dadurka/

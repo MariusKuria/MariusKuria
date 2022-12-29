@@ -6,7 +6,7 @@
 
 Hello Everybody 🌏
 - 🌱 I’m currently learning JS and PHP at BIT.
-- 💬 We can discuss about Aviation and Space 
+- 💬 We can discuss about Coding, Aviation and Space 
 
 - 📫 How to reach me: 
 <br>

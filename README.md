@@ -3,7 +3,7 @@
     <td><div id="header" align="left">
   <img src="https://media2.giphy.com/media/1sgetPM00wWqJpVUTl/200w.webp?cid=ecf05e47fv3lfr0hdo0hhttfbaaxl30sp5d9bpk3hmiy961h&rid=200w.webp&ct=s" width="200"/>
 </div></td>
-    <td><h1>Hello Everybody 🌏🛩️🚀h1>
+    <td><h1>Hello Everybody 🌏 🛩️ 🚀</h1>
 
 - 🌱 I’m currently learning JS and PHP at BIT.
 - 💬 We can discuss about Coding, Aviation and Space 

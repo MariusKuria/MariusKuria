@@ -5,6 +5,7 @@
 </div>
 
 <h1>Hello Everybody 🌏</h1>
+
 - 🌱 I’m currently learning JS and PHP at BIT.
 - 💬 We can discuss about Coding, Aviation and Space 
 

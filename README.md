@@ -1,8 +1,8 @@
 
 
-<div id="header" align="left">
+<h3><div id="header" align="left">
   <img src="https://media2.giphy.com/media/1sgetPM00wWqJpVUTl/200w.webp?cid=ecf05e47fv3lfr0hdo0hhttfbaaxl30sp5d9bpk3hmiy961h&rid=200w.webp&ct=s" width="200"/>
-</div>
+</div></h3>
 
 <h1>Hello Everybody 🌏</h1>
 

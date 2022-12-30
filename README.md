@@ -10,10 +10,10 @@
 
 - 📫 How to reach me: 
 <br>
-<div id="badges">
+<div id="badges">&nbsp;
   <a href="https://www.linkedin.com/in/marius-dadurka/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a> &nbsp;
   <a href="https://twitter.com/mdadurka">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>

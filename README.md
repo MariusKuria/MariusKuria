@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: 
 <br>
-<div id="badges">&nbsp; &nbsp;
+<div id="badges">&nbsp; &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/marius-dadurka/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> &nbsp; &nbsp;

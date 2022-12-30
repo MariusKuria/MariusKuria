@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td><div id="header" align="left">
-  <img src="https://media2.giphy.com/media/1sgetPM00wWqJpVUTl/200w.webp?cid=ecf05e47fv3lfr0hdo0hhttfbaaxl30sp5d9bpk3hmiy961h&rid=200w.webp&ct=s" width="200"/>
+  <img src="https://media2.giphy.com/media/1sgetPM00wWqJpVUTl/200w.webp?cid=ecf05e47fv3lfr0hdo0hhttfbaaxl30sp5d9bpk3hmiy961h&rid=200w.webp&ct=s" width="250"/>
 </div></td>
     <td><h1>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Hello Everybody &nbsp;🌏 </h1>
 

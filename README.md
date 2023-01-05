@@ -16,6 +16,9 @@
   </a> &nbsp; &nbsp;
   <a href="https://twitter.com/mdadurka">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a> &nbsp; &nbsp;
+  <a href="https://www.youtube.com/@mariusdadurka">
+    <img src="https://img.shields.io/badge/Youtube-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div></td>
   </tr>

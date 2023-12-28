@@ -5,7 +5,7 @@
 </div></td>
     <td><h1>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Hello Everybody &nbsp;🌏 </h1>
 
-- 📚 Wellcome to my github! <a href="https://bit.lt/">BIT</a>.
+- 📚 Wellcome to my github! 
 - 💬 We can discuss about Coding, Aviation and Space. 
 
 - 📫 How to reach me: 
